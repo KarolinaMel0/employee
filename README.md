@@ -26,8 +26,3 @@ Projeto desenvolvido em Java para realizar o gerenciamento e cálculo da folha d
 - Métodos e Construtores
 
 
-
-
-**Karolina Melo**
-
-Estudante de Análise e Desenvolvimento de Sistemas, com foco em Java, Estruturas de Dados e desenvolvimento de software.
